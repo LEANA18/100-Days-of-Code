@@ -1,3 +1,7 @@
+#30DaysofCode
+#Day1
+#Datatypes
+
 Task
 ****
 Complete the code in the editor below. The variables i, d and s are already declared and initialized for you. You must:
