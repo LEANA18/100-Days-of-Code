@@ -1,8 +1,7 @@
 #JavaScript
-
-
-
-
+#10DaysOfJavaScript
+#Day 0
+#Datatypes
 
 Task
 ****
